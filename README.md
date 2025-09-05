@@ -23,15 +23,6 @@ Este projeto analisa dados de filmes do IMDb para ajudar um estúdio a decidir q
    pip install -r requirements.txt
    ```
 
-   As bibliotecas necessárias são:
-   - pandas 2.2.2
-   - numpy 2.0.2
-   - matplotlib 3.10.0
-   - seaborn 0.13.2
-   - scikit-learn 1.6.1
-   - xgboost 3.0.4
-   - joblib 1.5.2
-
 ### 3. Executar o projeto
 
 1. Inicie o Jupyter Notebook
