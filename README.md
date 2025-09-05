@@ -15,7 +15,7 @@ Este projeto analisa dados de filmes do IMDb para ajudar um estúdio a decidir q
 1. Baixe o projeto
    ```bash
    # Se estiver no GitHub
-   git clone [(https://github.com/rodrigorosalvos/imdb)]
+   git clone https://github.com/rodrigorosalvos/imdb
    cd projeto-imdb
    ```
 
