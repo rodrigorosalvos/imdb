@@ -54,6 +54,24 @@ Este projeto analisa dados de filmes do IMDb para ajudar um estúdio a decidir q
 - `modelo_xgb.pkl` - Modelo treinado
 - `requirements.txt` - Lista das bibliotecas necessárias
 
+## Dicionário dos dados
+
+Series_Title – Nome do filme
+Released_Year - Ano de lançamento
+Certificate - Classificação etária
+Runtime – Tempo de duração
+Genre - Gênero
+IMDB_Rating - Nota do IMDB
+Overview - Overview do filme
+Meta_score - Média ponderada de todas as críticas 
+Director – Diretor
+Star1 - Ator/atriz #1
+Star2 - Ator/atriz #2
+Star3 - Ator/atriz #3
+Star4 - Ator/atriz #4
+No_of_Votes - Número de votos
+Gross - Faturamento
+
 ## Relatórios das análises
 
 ### Análise Exploratória de Dados (EDA)
