@@ -99,7 +99,7 @@ O notebook contém as seguintes análises:
 
 2. Fatores relacionados com alto faturamento:
    - Número de votos (popularidade)
-   - Gêneros de ação e aventura
+   - Gêneros de drama, ação e aventura
    - Duração adequada (120-180 min)
 
 3. Insights da sinopse:
