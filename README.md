@@ -1,4 +1,4 @@
-# Análise de Filmes IMDb
+# Análise de Filmes IMDB
 ## Descrição
 
 Este projeto analisa dados de filmes do IMDb para ajudar um estúdio a decidir qual tipo de filme produzir. Inclui análise exploratória de dados (EDA) e um modelo de machine learning para prever notas do IMDb.
